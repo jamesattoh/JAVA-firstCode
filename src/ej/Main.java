@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Main { //code minimal de tout projet java
 
-	public static void main(String[] args) { //point d'entree de tout projet java 
+	public static void main(String[] args) { //point d'entree obligatoire de tout projet java
 		
 		
 		String phrase = "Hello world !";
